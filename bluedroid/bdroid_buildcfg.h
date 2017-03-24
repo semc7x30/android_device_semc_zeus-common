@@ -16,6 +16,7 @@
  */
 
 #define BTA_DISABLE_DELAY 1000 /* in milliseconds */
+#define LEGACY_BRCM_HCI TRUE
 
 /*
 #define BLE_INCLUDED FALSE
